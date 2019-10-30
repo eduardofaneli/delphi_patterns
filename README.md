@@ -31,3 +31,8 @@
 21) Strategy: Fornece a capacidade de selecionar um algoritmo em tempo de execução, conforme a situação atual (ou regras de negócio) para executar uma tarefa específica.
 22) Template Method: Estabelece uma sequência de passos e permite que alguns deles sejam “delegados” para as subclasses em tempo de execução.
 23) Visitor: Orienta a separação de classes de estruturas e de operações, de forma que novos comportamentos possam ser adicionados a objetos sem alterá-los.
+
+
+
+# Fonte
+[Blog do Andre Celestino](https://www.andrecelestino.com/delphi-design-patterns-retrospectiva/)
